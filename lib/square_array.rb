@@ -1,4 +1,3 @@
 def square_array(array)
-  output = []
-  while
+  array.length.times do 
 end
